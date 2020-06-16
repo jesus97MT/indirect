@@ -6,6 +6,26 @@ Indirect is a project that works as a social network in which the user can see m
 
 To access the application you must enter the following [link](https://jesus97mt.github.io/indirect/) and register, once registered start following your friends and see what messages (indirect) they have published
 
+## Functionalities Now
+
+  * Create user and login
+  * Edit profile and save image
+  * Search users
+  * Follow users
+  * View your following and followers
+  * Create and indirect public or private (only for mutuals)
+  * View the recent indirects
+  
+  ## Functionalities In The Future
+
+  * Chat
+  * Discover who has written you an indirect
+  * Add images or videos in the indirect
+  * Night mode
+  * Design improvements
+  * Share indirects
+  * And more!!
+
 
 ## Built With
 
