@@ -52,9 +52,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Preview
 
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/login%20mobile%20indirect.PNG)
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/feed%20mobile.PNG)
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/new%20indirect%20mobile.PNG)
+![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/login%20mobile%20indirect.PNG "Login")
 ![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/profile%20mobile.PNG "Profile")
+![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/new%20indirect%20mobile.PNG "Add")
+![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/feed%20mobile.PNG "Feed")
+![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/login%20desktop%20indirect.PNG "Login")
+
+
+
 
 
