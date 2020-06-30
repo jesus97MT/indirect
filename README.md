@@ -58,12 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/4.png" width="411" title="hover text">
   <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/5.png" width="411" title="hover text">
   <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/6.png" width="411" title="hover text">
- 
-  
+  <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/login%20desktop%20indirect.PNG" width="900" title="hover text">
 </p>
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/login%20desktop%20indirect.PNG "Login")
-
-
-
-
-
