@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Preview
 
-![alt text](https://github.com/[jesus97MT]/[front-indirect]/blob/[master]/src/assets/logo.png?raw=true)
+![alt text](https://github.com/[jesus97MT]/[front-indirect]/blob/[master]src/assets/feed%20desktop.PNG
