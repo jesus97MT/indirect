@@ -51,11 +51,16 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 ## Preview
-
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/login%20mobile%20indirect.PNG "Login")
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/profile%20mobile.PNG "Profile")
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/new%20indirect%20mobile.PNG "Add")
-![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/feed%20mobile.PNG "Feed")
+<p align="center">
+  <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/1.png" width="411" title="hover text">
+  <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/2.png" width="411" title="hover text">
+  <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/3.png" width="411" title="hover text">
+  <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/4.png" width="411" title="hover text">
+  <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/5.png" width="411" title="hover text">
+  <img src="https://github.com/jesus97MT/front-indirect/blob/master/src/assets/6.png" width="411" title="hover text">
+ 
+  
+</p>
 ![alt text](https://github.com/jesus97MT/front-indirect/blob/master/src/assets/login%20desktop%20indirect.PNG "Login")
 
 
